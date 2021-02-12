@@ -1,0 +1,4 @@
+venv/
+.idea/
+newsbot/MLPC_model.sav
+newsbot/svc_model.sav
