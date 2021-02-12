@@ -2,7 +2,7 @@
 
 For running the system,
 You need to have a browser and python installed, then in the command prompt, run the following command
->pip install -r requirements.txt
+>pip install -r requirements_list.txt
 
 Finally, when all the requirements will get installed, run the django application by running the command 
 >python manage.py runserver
