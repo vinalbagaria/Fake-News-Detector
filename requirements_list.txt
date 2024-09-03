@@ -9,7 +9,7 @@ conda==4.9.2
 conda-package-handling==1.7.2
 cryptography==3.3.1
 Cython==0.29.21
-Django==3.1.6
+Django==3.2.25
 django-crispy-forms==1.11.0
 idna==2.10
 joblib==1.0.1
